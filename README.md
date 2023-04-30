@@ -6,20 +6,23 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 <br/>
 
 ## Supervised monocular depth estimation
-### basic model for supervised methods
+
 
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |Depth Map Prediction from a Single Image using a Multi-Scale Deep Network|NeurIPS 2014|[paper](https://arxiv.org/pdf/1406.2283v1.pdf)|||
+|Predicting depth, surface normals and semantic labels with a common multi-scale convolutional architecture|ICCV 2015|[paper](https://arxiv.org/pdf/1411.4734v4.pdf)|||
+|Deeper Depth Prediction with Fully Convolutional Residual Networks|2016|[paper](https://arxiv.org/pdf/1606.00373v2.pdf)|||
+|Single-Image Depth Perception in the Wild|NeurIPS 2016|[paper](https://arxiv.org/pdf/1604.03901v2.pdf)|||
 
 - different architectures and loss functions
-- condifional random fields
+- conditional random fields
 - adversarial learning
 <br/>
 
 
 ## Unsupervised monocular depth estimation
-- A baisc model for unsupervised methods
+
 - explainability mask
 - traditional visual odometry
 - multi-tasks framework
@@ -28,7 +31,7 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 
 
 ## Semi-supervised monocular depth estimation
-- A basic model for semi-supervised methods
+
 - stereo matching
 - adveraraial learning and knowledge distillation
 - sparse ground truth
