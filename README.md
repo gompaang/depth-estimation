@@ -1,4 +1,4 @@
-# depth-estimation
+# depth-estimation-paper
 monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/2003.06620.pdf)
 - supervised monocular depth estimation
 - unsupervised monocular depth estimation
