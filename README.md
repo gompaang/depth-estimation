@@ -7,6 +7,7 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 
 ## Supervised monocular depth estimation
 
+### different architectures and loss functions
 
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
@@ -17,9 +18,24 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 |Deep Ordinal Regression Network for Monocular Depth Estimation |CVPR 2018|[paper](https://arxiv.org/pdf/1806.02446v1.pdf)|||
 |Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation|ECCV 2018|[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Zhang_Joint_Task-Recursive_Learning_ECCV_2018_paper.pdf)|||
 
-- different architectures and loss functions
-- conditional random fields
-- adversarial learning
+
+### conditional random fields
+
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields|2015|[paper](https://arxiv.org/pdf/1502.07411.pdf)|||
+|Structured attention guided convolutional neural fields for monocular depth estimation|CVPR 2018|[paper](https://arxiv.org/pdf/1803.11029v1.pdf)|||
+
+
+### adversarial learning
+
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Depth prediction from a single image with conditional adversarial networks|ICIP 2017|[paper](http://cvl.ewha.ac.kr/assets/conference/2017-ICIP-Jung.pdf)|||
+|Generative adversarial networks for depth map estimation from rgb video|CVPR 2018|[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Lore_Generative_Adversarial_Networks_CVPR_2018_paper.pdf)|||
+|Sganvo: Unsupervised deep visual odometry and depth estimation with stacked generative adversarial networks|2019|[paper](https://arxiv.org/pdf/1906.08889v1.pdf)|||
+
+
 <br/>
 
 
