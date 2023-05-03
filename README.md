@@ -47,9 +47,27 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 |Unsupervised Monocular Depth Estimation with Left-Right Consistency|CVPR 2017|[paper](https://arxiv.org/pdf/1609.03677v3.pdf)|||
 |Digging Into Self-Supervised Monocular Depth Estimation|ICCV 2019|[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf)|||
 
-- explainability mask
-- traditional visual odometry
-- multi-tasks framework
+
+### explainability mask
+
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints|CVPR 2018|[paper](https://arxiv.org/pdf/1802.05522v2.pdf)|||
+|Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video|NeurIPS 2019|[paper](https://arxiv.org/pdf/1908.10553v2.pdf)|||
+
+
+### traditional visual odometry
+
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Learning Depth from Monocular Videos using Direct Methods|CVPR 2018|[paper](https://arxiv.org/pdf/1712.00175v1.pdf)|||
+
+
+### multi-tasks framework
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras|ICCV 2019|[paper](https://arxiv.org/pdf/1904.04998v1.pdf)|||
+
 - adversarial learning
 <br/>
 
