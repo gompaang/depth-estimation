@@ -41,6 +41,10 @@ monocular depth estimation based deep learning : [survey](https://arxiv.org/pdf/
 
 ## Unsupervised monocular depth estimation
 
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Unsupervised Learning of Depth and Ego-Motion from Video|CVPR 2017|[paper](https://arxiv.org/pdf/1704.07813v2.pdf)|||
+
 - explainability mask
 - traditional visual odometry
 - multi-tasks framework
